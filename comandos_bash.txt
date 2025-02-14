@@ -19,8 +19,9 @@ git log -> mostra o historico de commits
 1. criar diretorio
 2. iniciar o git com git init.
 3. editar ou criar arquivos
-4.git status
-5.git add
-6.git commit -m "mensagem"
+4. git status
+5. git add
+6. git commit -m "mensagem"
+7. voltar ao passo 3
 7.git status
 
