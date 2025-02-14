@@ -12,5 +12,5 @@ git init . -> cria repo git na pasta atual
 git status -> verifica o status da pasta
 git commit -m -> faz o check point do arquivo
 git add -> elenca os arquivos para o commit
-
+git log -> mostra o historico de commits
 
