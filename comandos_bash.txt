@@ -23,4 +23,4 @@ git log -> mostra o historico de commits
 5.git add
 6.git commit -m "mensagem"
 7.git status
-8.volta passo 3
+
