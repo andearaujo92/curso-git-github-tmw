@@ -3,3 +3,4 @@
 1. git branch -> ve as branchs
 2. git checkout -b -> cria as branchs
 3. git checkout nome_branch -> muda de branch
+4. git merge -> mescla as alterações das branchs
