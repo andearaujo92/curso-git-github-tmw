@@ -14,3 +14,13 @@ git commit -m -> faz o check point do arquivo
 git add -> elenca os arquivos para o commit
 git log -> mostra o historico de commits
 
+#### FLUXO ####
+
+1. criar diretorio
+2. iniciar o git com git init.
+3. editar ou criar arquivos
+4.git status
+5.git add
+6.git commit -m "mensagem"
+7.git status
+8.volta passo 3
