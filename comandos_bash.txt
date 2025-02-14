@@ -1,0 +1,5 @@
+
+#### COMANDOS LINUX ####
+ls -> lista dretorios
+cd -> muda de diretorio
+pwd -> printa o diretorio corrente
