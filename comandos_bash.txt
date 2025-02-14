@@ -5,23 +5,3 @@ cd -> muda de diretorio
 pwd -> printa o diretorio corrente
 cat -> visualiza o arquivo
 rm -> remove arquivos
-
-#### COMANDOS GIT ####
-
-git init . -> cria repo git na pasta atual
-git status -> verifica o status da pasta
-git commit -m -> faz o check point do arquivo
-git add -> elenca os arquivos para o commit
-git log -> mostra o historico de commits
-
-#### FLUXO ####
-
-1. criar diretorio
-2. iniciar o git com git init.
-3. editar ou criar arquivos
-4. git status
-5. git add
-6. git commit -m "mensagem"
-7. voltar ao passo 3
-7.git status
-
