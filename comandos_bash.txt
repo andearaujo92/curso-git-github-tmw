@@ -3,3 +3,14 @@
 ls -> lista dretorios
 cd -> muda de diretorio
 pwd -> printa o diretorio corrente
+cat -> visualiza o arquivo
+rm -> remove arquivos
+
+#### COMANDOS GIT ####
+
+git init . -> cria repo git na pasta atual
+git status -> verifica o status da pasta
+git commit -m -> faz o check point do arquivo
+git add -> elenca os arquivos para o commit
+
+
