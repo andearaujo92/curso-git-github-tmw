@@ -6,6 +6,10 @@ git status -> verifica o status da pasta
 git commit -m -> faz o check point do arquivo
 git add -> elenca os arquivos para o commit
 git log -> mostra o historico de commits
+git branch -> visualiza as branchs
+git branch -D nome_branch -> exclui uma branch
+git merge nome_branch -> mescla as alterações das branchs
+git checkout -b nome_branch -> cria uma nova branch
 
 #### FLUXO ####
 
