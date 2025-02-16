@@ -5,4 +5,4 @@ Curso destinado ao aprendizado de Git e GitHub
  - Git
  - Git Hub
  - Git Flow
- - Git no VS Code
+ - Integração do Git com  VS Code
